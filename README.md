@@ -1,18 +1,12 @@
+<div align="center">
+  <div style="display: flex;">
+        <img style="margin-bottom: 50px" src="https://github-readme-stats.vercel.app/api?username=fauzihalabe&show_icons=true&theme=dark" />
+    
+     
+  ![trophy](https://github-profile-trophy.vercel.app/?username=fauzihalabe&theme=onedark)]
 
-<div style="width: 100%; text-align:center">
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=fauzihalabe&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-  </div>
-
+    
+    
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -35,3 +29,9 @@
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
 
 </div>
+
+  </div>
+</div>
+
+
+
