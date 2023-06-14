@@ -1,6 +1,6 @@
 <div align="center">
   <div style="display: flex;">
-        <img style="margin-bottom: 50px" src="https://github-readme-stats.vercel.app/api?username=fauzihalabe&show_icons=true&theme=dark" />
+      
           
     
    <br>
