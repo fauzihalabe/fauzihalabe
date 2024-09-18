@@ -6,7 +6,6 @@
    <br>
        <br>
     
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fauzihalabe&theme=dark)
 <br>
    
      
